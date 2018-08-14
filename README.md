@@ -1,8 +1,4 @@
-# box_bottom_half_screen
+# layout-01-bottom-box
+Create a box that occupies the bottom half of the screen.
 
-Creates a box that occupies the bottom half of the screen. 
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+See [Flutter & Angular Cookbook](https://jasperamorgan.gitbook.io/flutter-angular-cookbook)
